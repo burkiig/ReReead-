@@ -1,45 +1,52 @@
-ReRead | University Second-Hand Book Marketplace 📚
-ReRead is a user-centric mobile marketplace designed for university students to safely sell, buy, or exchange books. This project represents the journey of transforming High-Fidelity UI/UX designs into a living prototype on Expo Go, powered by an AI-assisted (Claude AI) development workflow.
+# ReRead | University Second-Hand Book Marketplace 📚
 
-🚀 Development Journey & AI Integration
-The core of this project lies in the synergy between design and code, where Claude AI acted as a strategic development partner:
-
-AI-Partnered Coding: I transformed my initial Figma wireframes into functional React Native components using Claude AI. This collaboration allowed for the optimization of complex UI structures—such as dynamic filtering and the Insights dashboard—accelerating development by approximately 40%. 
-
-Expo Go Implementation: The entire interface and logic, refined by AI, were built within the Expo ecosystem. This enables the application to be tested and experienced instantly on physical devices through Expo Go. 
-
-
-Design Evolution: I used AI-driven feedback and modern UI trends to evolve the initial prototypes into a more accessible and aesthetically pleasing user experience (UX), specifically optimized for "Dark Mode." 
-
-🎨 UI/UX Design & Architecture (Figma)
-The interface is architected to minimize cognitive load for students, ensuring quick actions and high readability.
-
-🔗 Explore the Figma Design & Prototypes
-
-Featured Modules:
-
-Smart Search & Filtering: An optimized discovery interface allowing users to find books across 20+ categories in seconds. 
-
-
-Insights & Wallet: Advanced data visualization screens where users can track sales statistics, exchange history, and wallet balances. 
-
-
-Admin Dashboard: A professional management panel for real-time monitoring of platform health, user reports, and system status (Server/DB/API). 
-
-🤖 How Claude AI was Utilized
-Claude AI was integrated into the production cycle for:
-
-Code Architecture: Translating Figma's visual hierarchy into clean, scalable, and modular React Native code.
-
-UI Optimization: Refining in-app interactions (button haptics, transition animations) to enhance the end-user experience.
-
-Logical Workflows: Structuring the logical flows for listing creation and the P2P exchange process.
-
-## 📂 Project Showcase Material (PowerPoint)
-
-You can find the full conceptual sunum and architectural overview in the **[PowerPoint- ReRead UI]** file, located in this repository.
+**ReRead** is a modern, mobile marketplace designed for university students to trade and sell books. This project showcases a complete design-to-prototype journey using **Figma**, **Claude AI**, and **Expo Go**.
 
 ---
+
+## 🚀 Prototyping with AI & Expo Go
+This project demonstrates an "AI-Partnered" development workflow. High-fidelity designs were transformed into functional code using **Claude AI**, optimizing the UI components for a seamless experience on **Expo Go**.
+
+---
+
+## 🎨 UI/UX Design Showcase (Presentation Slides)
+
+The following sections represent the architectural and visual design phases of the application, as detailed in the project presentation.
+
+### 🔐 Login & Register Pages (Slide 1)
+Focuses on a secure and user-friendly onboarding experience.
+- **[Image 1 & 2]:** Minimalist authentication flow with focus on student email validation.
+| ![Login Page](image_b3cf7f.png) | ![Register Page](image_b3d2c7.png) |
+| :---: | :---: |
+
+### 🏠 Main & Book List Pages (Slide 2)
+The core discovery engine of the app.
+- **[Image 3, 4, 5]:** Feature-rich home screen with dynamic category filtering and trending books.
+
+### 📖 Book Detail & Checkout (Slide 3-4)
+- **[Image 6-9]:** Detailed book information, condition ratings, and a streamlined P2P checkout/chat system with the seller.
+
+### 👤 User Profile & Insights (Slide 5)
+- **[Image 10-11]:** Personalized statistics dashboard (Insights) showing trade history and wallet balance.
+
+### ➕ Listing Management (Slide 6-8)
+- **[Image 12-19]:** End-to-end "Create Listing" and "Edit Book" flows, designed for maximum ease of use.
+
+### 🛠 Admin Dashboard (Slide 9)
+- **[Image 20-21]:** Professional backend monitoring tool to track server health, user reports, and platform statistics.
+
+---
+
+## 🤖 AI Features (Powered by Claude)
+- **Automated Content Moderation:** Analyzing book descriptions for quality.
+- **Smart Categorization:** NLP-based category suggestions for new listings.
+- **UI Code Generation:** Translating Figma prototypes into modular React Native components.
+
+---
+
+## 🔗 Project Links
+- **[Figma Prototype](https://www.figma.com/design/qXopMSOyNP2brojsLfty7a/ReRead-UI-design?node-id=1-2064&t=p5AgpogxJnnsySi2-1)**
+
 
 ### Contact & Links
 - **LinkedIn:** [http://linkedin.com/in/gedikli-burak]
